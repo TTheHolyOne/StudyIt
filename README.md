@@ -4,8 +4,5 @@ A live learning game that students and teachers love.
 StudyIt.live
 
 # Where is everything?
-Techinally you could just CTRL - U and view the code at studyit.live but we will not show the code here.
-<br/>
-If you are wondering why it is because we value security and if just all the code is this easy to see it would not be great.
-<br/>
-
+I decided to not put the code on github, with a little searching you could easily find it though. Email me if you want to know about it.
+Firebase, Javascript, Json, Html, Css, APIS, etc was used in this
